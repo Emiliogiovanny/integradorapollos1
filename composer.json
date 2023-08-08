@@ -1,0 +1,15 @@
+{
+    "name": "integradora/1.0",
+    "description": "proyecto pagina web ",
+    "require": {
+        "vendor/biblioteca": "^1.0",
+        "otrovendor/otrabiblioteca": "dev-master"
+    
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Emiliogiovanny/integradora1.0.git"
+        }
+    ]
+}
